@@ -19,7 +19,9 @@ p::PrintScreen
 a::<
 s::>
 q::'
-w::`
+w::
+Send, {``}
+return
 e::\
 
 Up::WheelUp
